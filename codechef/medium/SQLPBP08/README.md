@@ -32,7 +32,7 @@ employee_id	employee_name	company	category	department	salary
 **Language:** SQL  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-30T16:22:17.067Z  
+**Submitted:** 2026-08-01T16:36:39.658Z  
 
 ```sql
 --your code goes here

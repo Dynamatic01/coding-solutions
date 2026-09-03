@@ -1,3 +1,3 @@
 -- your code goes here
-select * from user 
-order by user_id limit 3;
+select singer_name from singer
+where singer_name like 'a%';

@@ -4,17 +4,12 @@
 
 ## Problem
 
-**Case Study: Dotify Music App**  -This case study scenario involves queries raised by users and data scientists of the Dotify App. You have been given a dataset containing a total of 7 tables associated with the case study; it is recommended that you read the description of every table.
-
+- A user is looking for singers whose names begin with "a". Write a query to complete this task.
 ### Task
-- Write a query to output the table 'User'. Limit your results to 3 rows.
+- Write a query to print all the names of singers which starts with ‘a’
 ### Expected Output Format
 
- **user_id** 
- **user_name** 
- **age** 
- **gender** 
- **pincode** 
+ **singer_name** 
 
 ### Description of Tables
 - PK stands for Primary Key
@@ -33,12 +28,12 @@
 **Language:** SQL  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-03T16:45:02.876Z  
+**Submitted:** 2026-09-03T16:47:25.199Z  
 
 ```sql
 -- your code goes here
-select * from user 
-order by user_id limit 3;
+select singer_name from singer
+where singer_name like 'a%';
 ```
 
 ---

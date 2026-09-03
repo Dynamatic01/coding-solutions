@@ -79,9 +79,9 @@ The customers who bought all the products (5 and 6) are customers with IDs 1 and
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 93 ms  
-**Memory:** 0B  
-**Submitted:** 2026-08-22T17:44:20.602Z  
+**Runtime:** 561 ms (beats 84.52%)  
+**Memory:** 0B (beats 100.00%)  
+**Submitted:** 2026-09-03T16:16:03.050Z  
 
 ```sql
 # Write your MySQL query statement below

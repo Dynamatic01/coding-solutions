@@ -64,9 +64,9 @@ For 2020-06-02, the Sold item is (Mask), we just return it.
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 939 ms (beats 5.01%)  
+**Runtime:** 510 ms (beats 44.77%)  
 **Memory:** 0B (beats 100.00%)  
-**Submitted:** 2026-09-06T17:13:19.211Z  
+**Submitted:** 2026-09-06T17:17:09.703Z  
 
 ```sql
 # Write your MySQL query statement below

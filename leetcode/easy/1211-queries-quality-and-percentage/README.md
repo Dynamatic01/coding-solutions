@@ -76,9 +76,9 @@ Cat queries poor_ query_percentage is (1 / 3) * 100 = 33.33
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 475 ms (beats 17.60%)  
+**Runtime:** 393 ms (beats 58.14%)  
 **Memory:** 0B (beats 100.00%)  
-**Submitted:** 2026-09-08T17:37:44.233Z  
+**Submitted:** 2026-09-08T17:41:45.749Z  
 
 ```sql
 # Write your MySQL query statement below

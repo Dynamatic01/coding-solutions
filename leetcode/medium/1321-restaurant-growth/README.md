@@ -74,9 +74,9 @@ Explanation:
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 391 ms (beats 58.95%)  
-**Memory:** 0B (beats 100.00%)  
-**Submitted:** 2026-09-23T15:07:33.278Z  
+**Runtime:** 71 ms  
+**Memory:** 0B  
+**Submitted:** 2026-09-23T15:06:46.579Z  
 
 ```sql
 # Write your MySQL query statement below

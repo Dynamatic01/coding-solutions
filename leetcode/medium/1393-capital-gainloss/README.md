@@ -71,9 +71,9 @@ Corona Masks stock was bought at day 1 for 10$ and was sold at day 3 for 1010$. 
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 844 ms (beats 7.36%)  
+**Runtime:** 519 ms (beats 81.47%)  
 **Memory:** 0B (beats 100.00%)  
-**Submitted:** 2026-09-24T18:03:53.981Z  
+**Submitted:** 2026-09-24T18:05:11.787Z  
 
 ```sql
 # Write your MySQL query statement below

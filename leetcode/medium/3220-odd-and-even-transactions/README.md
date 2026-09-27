@@ -69,9 +69,9 @@ The result format is in the following example.
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 67 ms  
-**Memory:** 0B  
-**Submitted:** 2026-09-27T16:23:37.720Z  
+**Runtime:** 290 ms (beats 84.24%)  
+**Memory:** 0B (beats 100.00%)  
+**Submitted:** 2026-09-27T16:23:41.998Z  
 
 ```sql
 # Write your MySQL query statement below

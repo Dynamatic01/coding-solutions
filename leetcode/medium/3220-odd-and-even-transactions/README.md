@@ -71,7 +71,7 @@ The result format is in the following example.
 **Language:** SQL  
 **Runtime:** 67 ms  
 **Memory:** 0B  
-**Submitted:** 2026-09-27T16:23:26.434Z  
+**Submitted:** 2026-09-27T16:23:37.720Z  
 
 ```sql
 # Write your MySQL query statement below
@@ -80,7 +80,7 @@ sum(case when (amount)%2=1 then amount else 0 END) as odd_sum,
 sum(case when amount%2=0 then amount else 0 END) as even_sum 
 from transactions 
 group by transaction_date 
-order by transaction_date 
+order by transaction_date asc
 ```
 
 ---

@@ -113,9 +113,9 @@ Output table is ordered by current_borrowers in descending order, then by book_t
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 114 ms  
-**Memory:** 0B  
-**Submitted:** 2026-10-08T17:51:55.946Z  
+**Runtime:** 539 ms (beats 77.92%)  
+**Memory:** 0B (beats 100.00%)  
+**Submitted:** 2026-10-08T17:52:59.704Z  
 
 ```sql
 # Write your MySQL query statement below
@@ -137,7 +137,7 @@ GROUP BY
     l.genre,
     l.publication_year,
     l.total_copies
-HAVING COUNT(b.record_id) >= l.total_copies
+HAVING COUNT(b.record_id) = l.total_copies
 ORDER BY
     current_borrowers DESC,
     l.title ASC;

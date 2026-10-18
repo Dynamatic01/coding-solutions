@@ -113,9 +113,9 @@ Output table is ordered by recovery_time in ascending order, and then by patient
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 596 ms (beats 49.96%)  
+**Runtime:** 593 ms (beats 51.17%)  
 **Memory:** 0B (beats 100.00%)  
-**Submitted:** 2026-10-18T17:38:57.316Z  
+**Submitted:** 2026-10-18T17:39:34.385Z  
 
 ```sql
 # Write your MySQL query statement b

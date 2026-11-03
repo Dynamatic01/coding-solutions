@@ -56,9 +56,9 @@ Explanation: Joe is the only employee who earns more than his manager.
 ## Solution
 
 **Language:** SQL  
-**Runtime:** 368 ms (beats 5.01%)  
+**Runtime:** 303 ms (beats 13.94%)  
 **Memory:** 0B (beats 100.00%)  
-**Submitted:** 2026-08-13T17:03:27.632Z  
+**Submitted:** 2026-11-03T17:49:03.986Z  
 
 ```sql
 -- Write your PostgreSQL query statement below
